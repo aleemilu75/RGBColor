@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		A57F67951F73759300E036D7 /* RGBColor.h in Headers */ = {isa = PBXBuildFile; fileRef = A57F67931F73759300E036D7 /* RGBColor.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A57F679C1F7375AA00E036D7 /* RGBViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57F679B1F7375AA00E036D7 /* RGBViewController.swift */; };
+		A57F68091F73A25000E036D7 /* RGBViewController.swift in Headers */ = {isa = PBXBuildFile; fileRef = A57F679B1F7375AA00E036D7 /* RGBViewController.swift */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A57F67951F73759300E036D7 /* RGBColor.h in Headers */,
+				A57F68091F73A25000E036D7 /* RGBViewController.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
